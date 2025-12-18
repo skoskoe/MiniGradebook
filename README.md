@@ -24,6 +24,3 @@ The application allows the user to:
 - Language: C#
 - Type: Console Application
 - Framework: .NET
-
-## Notes
-The refactoring was done **incrementally**, and after each change the application was compiled and tested to ensure identical behavior to the original version.
