@@ -1,0 +1,7 @@
+D:\garlic bread\MiniDnevnikZaOcenki\MiniDnevnikZaOcenki\bin\Debug\MiniDnevnikZaOcenki.exe.config
+D:\garlic bread\MiniDnevnikZaOcenki\MiniDnevnikZaOcenki\bin\Debug\MiniDnevnikZaOcenki.exe
+D:\garlic bread\MiniDnevnikZaOcenki\MiniDnevnikZaOcenki\bin\Debug\MiniDnevnikZaOcenki.pdb
+D:\garlic bread\MiniDnevnikZaOcenki\MiniDnevnikZaOcenki\obj\Debug\MiniDnevnikZaOcenki.csproj.AssemblyReference.cache
+D:\garlic bread\MiniDnevnikZaOcenki\MiniDnevnikZaOcenki\obj\Debug\MiniDnevnikZaOcenki.csproj.CoreCompileInputs.cache
+D:\garlic bread\MiniDnevnikZaOcenki\MiniDnevnikZaOcenki\obj\Debug\MiniDnevnikZaOcenki.exe
+D:\garlic bread\MiniDnevnikZaOcenki\MiniDnevnikZaOcenki\obj\Debug\MiniDnevnikZaOcenki.pdb
